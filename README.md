@@ -17,7 +17,7 @@
 - 👨‍💻 All of my projects are available at **https://gurudevkini-sigma.vercel.app/**
 - 💬 Ask me about **♟️ Chess, 💻 Coding, or ☕ Life over a cup of chai**
 - 📫 Reach me at **gurudevkinichess@gmail.com**
-- 📄 Resume: **[click Here 🙂](https://drive.google.com/file/d/1WD8Ll22zroV79a2H7OnDF81p0ylY50yR/view?usp=sharing)**
+- 📄 Resume: **[click Here 🙂]([https://drive.google.com/file/d/1WD8Ll22zroV79a2H7OnDF81p0ylY50yR/view?usp=sharing](https://drive.google.com/file/d/1vVthbzX74M6YhlzcGUEVSIH6SG7mt6dE/view?usp=sharing))**
 - ⚡ Fun fact:  I can spend hours analyzing a chess position ♟️, debugging a semicolon 💻, and learning a guitar riff 🎸—all while finishing a cup of chai ☕
 
 ---
